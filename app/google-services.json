@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030451764539",
+    "project_id": "crud-983de",
+    "storage_bucket": "crud-983de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030451764539:android:5893cfc2ce9b67629deb1e",
+        "android_client_info": {
+          "package_name": "com.example.firebasedemope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJplyM4McH_1ma2_bGwzW_t_LZuw14DOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
